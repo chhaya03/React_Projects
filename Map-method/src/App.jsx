@@ -8,7 +8,7 @@ function App() {
       <h1>Healthy Food</h1>
       <ul className="List-group">
         {
-          //using map function
+          //using map method
           foodItem.map((item) => (
             <li key={item} className="list-group-item">
               {item}
