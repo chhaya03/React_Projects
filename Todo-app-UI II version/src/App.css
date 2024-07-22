@@ -1,0 +1,17 @@
+.heading{
+  font-weight: 800;
+  font-size: 50px;
+  margin: 10px;
+  margin-bottom: 20px;
+  color: brown;
+}
+
+
+
+.kg-row{
+  margin: 7px 5px;
+}
+
+.kg-button{
+  min-width: 80px;
+}
