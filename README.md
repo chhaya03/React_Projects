@@ -2,9 +2,5 @@
 These Projects are made using React.
 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-@vitejs/plugin-react uses Babel for Fast Refresh<br>
-@vitejs/plugin-react-swc uses SWC for Fast Refresh
+These projects are not completed yet by adding functionalities. there are  only UI based and learning based projects in form of  multiple versions .
+when functionalities will be added in these projects that will be final projects.
