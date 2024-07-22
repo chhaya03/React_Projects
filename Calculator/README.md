@@ -1,8 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This document provides an overview of the Calculator UI application. This is a simple calculator designed for basic arithmetic operations: addition, subtraction, multiplication, and division. The user interface (UI) is intuitive and user-friendly, making it easy to perform calculations quickly.
+<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+<h1>Features</h1><br>
+Basic Arithmetic Operations: Supports addition (+), subtraction (-), multiplication (×), and division (÷).<br>
+Clear Button: Clears the current input and reset the calculator.<br>
+Display Screen: Shows the current input and results of the calculations.<br>
+Responsive Design: Adapts to different screen sizes for usability on various devices.<br>
